@@ -1,0 +1,14 @@
+Sample Name,Reference Accession,Reference Accession ID,Reference Length,'% Genome Called,'%id,GC Content,ERCC Reads,Total Reads,Mapped Reads,SNPs,Informative Nucleotides,Missing Bases,Ambiguous Bases,Coverage Depth
+COVID_1335_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.0,99.7,37.9,0,1538334,1493779,90,29608,131,2,6724.572016185667
+COVID_1341_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,97.5,99.7,37.9,0,763300,709777,86,29153,625,0,2860.2617128716183
+COVID_1340_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.6,99.7,37.9,0,1687266,1642153,87,29774,18,2,7490.596361569073
+COVID_1333_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.6,99.7,37.9,1,1609620,1564512,90,29789,27,1,7104.681938267064
+COVID_1334_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.6,99.7,37.9,0,1193926,1158516,86,29775,3,0,5280.580242785005
+COVID_1330_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.6,99.7,37.9,0,1295126,1260523,90,29786,21,1,5778.892920442765
+COVID_1336_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.5,99.7,37.9,2,864812,839615,75,29744,31,31,3809.696451861017
+COVID_1338_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.6,99.7,37.9,1,1437514,1394283,89,29776,36,2,6347.660937029729
+COVID_1337_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,98.9,99.7,37.9,0,1269198,1230597,90,29585,191,2,5572.06196702672
+COVID_1331_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.5,99.7,37.9,0,1648996,1592281,90,29766,20,2,7235.764672440892
+COVID_1342_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.4,99.7,37.9,0,843616,789930,88,29719,49,1,3240.590342106143
+COVID_1339_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,99.4,99.7,37.9,0,1466364,1425910,90,29725,7,1,6457.17764103936
+COVID_1332_L1,"Severe acute respiratory syndrome coronavirus 2 isolate Wuhan-Hu-1, complete genome",MN908947.3,29903,98.8,99.7,37.9,0,1212228,1178814,88,29559,232,1,5346.851285824165
